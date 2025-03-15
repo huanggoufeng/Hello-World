@@ -1,3 +1,3 @@
 # Hello-World
 
-This is a sample repository created by Claude..
+This is a sample repository created by Claude...
